@@ -1,4 +1,4 @@
-# antora-ui-bundle
+## Antora GUI Bundle
 
 ### Setting up UI bundle locally: 
 1) install gulp using command 'npm install -g gulp-cli'
